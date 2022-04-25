@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "122299743629",
+    "project_id": "quetosapp-efae3",
+    "storage_bucket": "quetosapp-efae3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:122299743629:android:e7c8f52fc3076f6f4c11c4",
+        "android_client_info": {
+          "package_name": "com.example.quotesapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "122299743629-gq15pmr0jqqf5f7ai6ioq0n13kl9lhml.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPoFj-6M4sD69gk731bMFZ0-PsE4JEaac"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "122299743629-gq15pmr0jqqf5f7ai6ioq0n13kl9lhml.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
